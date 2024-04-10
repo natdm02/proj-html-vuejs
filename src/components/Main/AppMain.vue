@@ -63,5 +63,5 @@ export default {
 </template>
 
 <style lang="scss" scoped>
-@import "../../styles/appmain";
+@import"../../styles/appmain.scss";
 </style>
