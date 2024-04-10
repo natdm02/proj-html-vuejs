@@ -7,6 +7,11 @@ export default {
 <template>
     <main>
         MAIN
+    
+    <header>
+        ciao 
+    </header>
+    
     </main>
 </template>
 

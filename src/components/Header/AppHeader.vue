@@ -8,7 +8,7 @@ export default {
     <header>
         <div class="h-100 d-flex header-container align-items-center">
             <div class="me-2">
-                <img src="../../assets/img/marketing-intro.jpg" alt="">
+                <!--img src="../../assets/img/marketing-intro.jpg" alt="">-->
             </div>
             <ul class="d-flex list-unstyled align-items-center mb-0 mx-4">
                 <li class="me-3">
